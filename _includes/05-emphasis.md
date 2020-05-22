@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*this is italic*
+_this is italic*
+**this is bold**
+__this is bold__
+
+_this is the two **combined**__
+
+I am *learning* __GitHub markdown__
